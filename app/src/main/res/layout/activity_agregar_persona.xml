@@ -21,12 +21,13 @@
         android:textColor="@android:color/holo_blue_light"
         android:textSize="24sp"
         android:textStyle="bold" />
+
     <EditText
         android:id="@+id/etNombre"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Nombre"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textColorHint="@color/black"
         android:textSize="20sp" />
     <EditText
